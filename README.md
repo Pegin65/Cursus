@@ -24,7 +24,8 @@ $ termux-wake-lock
 
 $ bash Cursus.sh
 
-How to Install in linux
+How to Install in linux :
+
 sudo apt install git
 
 sudo apt install curl
